@@ -10,7 +10,7 @@ PADL is a proactive defense framework to safeguard images against manipulations 
 PADL architecture overview: the encoding module creates a specific perturbation and adds it to a real image for protection. The decoding module first estimates the perturbation and then uses it to perform manipulation detection and localization.
 
 # Trained Models
-...
+You can download the pretrained checkpoints of all our models [here](https://drive.google.com/drive/folders/1RsqMcG_D9s6u9JrLkoGDgNxJj-e1rr0U?usp=share_link)
 
 # Dataset
 We rely on the test set split used in MaLP. 
