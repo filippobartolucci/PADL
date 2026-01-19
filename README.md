@@ -23,6 +23,27 @@ Please download the dataset directly from their repository:
 * Giuseppe Lisanti
 
 # Cite
+If you use this source code please cite the following works:
+
+
+**[Image Specific Protection Against Manipulation](https://github.com/filippobartolucci/ImSP/)**
+```
+@InProceedings{ImSP,
+author="Bartolucci, Filippo
+and Lisanti, Giuseppe",
+editor="Rodol{\`a}, Emanuele
+and Galasso, Fabio
+and Masi, Iacopo",
+title="Image Specific Protection Against Manipulation",
+booktitle="Image Analysis and Processing -- ICIAP 2025",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="660--671",
+}
+```
+
+**Perturb, Attend, Detect and Localize (PADL): Robust Proactive Image Defense**
 ```
 @ARTICLE{10980274,
   author={Bartolucci, Filippo and Masi, Iacopo and Lisanti, Giuseppe},
@@ -32,4 +53,5 @@ Please download the dataset directly from their repository:
   volume={13},
   pages={81755-81768},
   doi={10.1109/ACCESS.2025.3565824}}
+
 ```
